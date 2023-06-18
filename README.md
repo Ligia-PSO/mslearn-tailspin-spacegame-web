@@ -1,5 +1,8 @@
 
 # Contributing
+pipeline status badge:
+
+[![Build Status](https://dev.azure.com/ligiapso/Test-project/_apis/build/status%2FLigia-PSO.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/ligiapso/Test-project/_build/latest?definitionId=2&branchName=main)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
